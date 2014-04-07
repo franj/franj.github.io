@@ -1,0 +1,14 @@
+name: 老蒋
+description: 老蒋的碎碎念
+author: 老蒋
+author_email: francisjiang@outlook.com
+
+category_dir: /
+url: http://franj.github.io
+
+#markdown: rdiscount
+markdown: redcarpet
+pygments: true
+
+#permalink: pretty
+
