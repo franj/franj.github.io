@@ -85,8 +85,9 @@ a:visited { color: #a0a; }
 }
 
 .header a.extra {
+  font-size: 150%;
   color: #aaa;
-  margin-left: 1em;
+  margin-left: 1pt;
 }
 
 .header a.extra:hover {
